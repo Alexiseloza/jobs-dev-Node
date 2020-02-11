@@ -1,0 +1,26 @@
+{
+  "name": "devjobs",
+  "version": "1.0.0",
+  "description": "Job and Vacancy Portal for Developers and Recruiters. Created by Alexis Loza React Dev",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index"
+  },
+  "keywords": [
+    "job",
+    "developers",
+    "developers",
+    "Job",
+    "vacancies",
+    "recruiters"
+  ],
+  "author": "Alexis Loza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
